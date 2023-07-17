@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wdtfO6jxPfabZfTJf9WqSHU3OnNpsNYeV/CcUGteOKJwllywE/w7KnvcBr3Aw9SgvFw9UYgegv1V+hspFVJNJw==",
+  "dgSpecHash": "JqnW8RWeU5B+EyL8C4DWliRD/PggMFQ1Yqpyhq9iCmBdCpg+xazoLS6Ik+dnB0AWby+o2noTjduYabNhB8PHow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Riley\\source\\repos\\C-sharp-repo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\Riley\\source\\repos\\C-sharp-repo\\ConsoleApp1\\ConsoleApp1\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

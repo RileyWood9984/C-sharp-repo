@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riley\\source\\repos\\C-sharp-repo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Riley\\source\\repos\\C-sharp-repo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Riley\\source\\repos\\C-sharp-repo\\ConsoleApp1\\ConsoleApp1\\HelloWorld.csproj",
+      "projectName": "HelloWorld",
+      "projectPath": "C:\\Users\\Riley\\source\\repos\\C-sharp-repo\\ConsoleApp1\\ConsoleApp1\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Riley\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Riley\\source\\repos\\C-sharp-repo\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
